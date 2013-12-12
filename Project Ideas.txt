@@ -1,0 +1,58 @@
+Reverse a String - DONE
+Pig Latin
+Count Vowels - DONE
+Check if Palindrome
+Count Words in a String - IN PROGRESS
+Text Editor
+RSS Feed Creator
+Post it Notes Program
+Guest-book / Journal
+League of Legends Scores
+Fortune Teller
+Ciphers
+FTP Program
+Chat Application
+Fetch Weather
+P2P File Sharing App
+Port Scanner
+Mail Checker
+Packet Sniffer
+Remote Login
+Web Server
+Web Bot
+
+//Real life applications
+Product Inventory Project
+Movie Store
+Airline / Hotel Reservation System
+Student Grade Book Application
+Bank Account Manager
+Library Catalogue
+
+Download Manager
+Page Scraper
+Web Browser
+On-line White Board
+Password Safe
+Text Based Game
+Content Management System
+
+Quiz Maker
+File Explorer
+Quick Launcher
+Create Zip File Maker
+PDF Generator
+Log File Maker
+RPG Character Stat Creator
+File Copy Utility
+Code Snippet Manager
+Versioning Manager
+
+SQL Query Analyser
+Remote SQL Tool
+Database Backup Script Maker
+ERD Creator
+Database Translation (SQL > MySQL
+
+Signature Maker
+
