@@ -14,7 +14,7 @@ public class CountVowelsApp {
         System.out.println("Please enter a String you wish the vowels to be counted: ");
         
         Scanner inputScanner = new Scanner(System.in);
-        String originalString = inputScanner.nextLine();
+        String originalString = inputScanner.nextLine().toLowerCase();
         
         char a = 'a';
         char e = 'e';
