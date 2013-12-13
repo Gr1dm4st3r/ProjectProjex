@@ -1,8 +1,10 @@
+Project Projex
+
 Reverse a String - DONE
-Pig Latin
+Pig Latin - IN PROGRESS
 Count Vowels - DONE
 Check if Palindrome
-Count Words in a String - IN PROGRESS
+Count Words in a String - DONE
 Text Editor
 RSS Feed Creator
 Post it Notes Program
