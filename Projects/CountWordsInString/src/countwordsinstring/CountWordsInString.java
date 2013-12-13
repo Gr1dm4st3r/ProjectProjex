@@ -19,16 +19,16 @@ public class CountWordsInString {
         originalString = originalString.trim();
         
         
-        int words = 1;
+        int wordCount = 1;
         for (int i=0;i<=originalString.length()-1;i++)
         {
             if (originalString.charAt(i) == ' ' && originalString.charAt(i+1)!=' ')
             {
-                words++;
+                wordCount++;
             }
         }
         
-        System.out.println("The number of words in the string you have entered is: "+words);
+        System.out.println("The number of words in the string you have entered is: "+wordCount);
         
     }
 }
